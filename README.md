@@ -13,4 +13,6 @@ Links of kaggle forecasting competitions
 - https://www.kaggle.com/competitions/walmart-recruiting-store-sales-forecasting
 - https://www.kaggle.com/competitions/store-sales-time-series-forecasting
 
+- https://www.kaggle.com/c/m5-forecasting-uncertainty/overview
+- https://www.kaggle.com/competitions/m5-forecasting-accuracy/overview
 
